@@ -2,6 +2,7 @@
 author: mujeebishaque
 Description: Converts all the png's found in the dir or in nested directory into PDF's.
 Pre-requisite: pip install pillow
+NOTICE: THIS METHOD IS NOT RECOMMENDED. THE CONVERTED PDF HAS EXTREMLY BAD QUALITY.
 '''
 
 import pathlib, os
