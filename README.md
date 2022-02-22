@@ -14,4 +14,8 @@ How does the script work?
 - Creates 2 processes, sends one list to first process, second list to second process (`multiprocessing module`)
 - All pdfs are generated in the same directory where pngs and with the same file name.
 
+**NOTE**
+This does not use OCR to extract textual contents from a PNG. A PNG image is converted into a pdf.
+
+
 If you're using this code, mention my name or link to this github repo. Everything is free to use. You can also choose not to mention my name or repo link. Happy Coding!
